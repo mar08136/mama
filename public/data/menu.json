@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "currency": "ETB",
+    "lastUpdated": "2026-11-23",
+    "status": "partial",
+    "statusNote": "We're building out the full digital menu. Only Mama's Kitchen's signature dish is confirmed so far – the rest of the menu will appear here once the restaurant confirms its dishes and prices."
+  },
+  "categories": [
+    { "id": "ethiopian", "name": "Ethiopian Dishes", "nameAm": null, "description": "Classic Ethiopian plates.", "confirmed": false },
+    { "id": "traditional-meat", "name": "Traditional Meat Dishes", "nameAm": null, "description": "Traditional meat specialties.", "confirmed": false },
+    { "id": "fasting", "name": "Vegetarian & Fasting", "nameAm": null, "description": "Vegetarian and fasting dishes.", "confirmed": false },
+    { "id": "grills-tibs", "name": "Grills & Tibs", "nameAm": null, "description": "From the grill and the pan.", "confirmed": false },
+    { "id": "international", "name": "International Dishes", "nameAm": null, "description": "International favorites.", "confirmed": false },
+    { "id": "drinks", "name": "Drinks", "nameAm": null, "description": "Something to sip.", "confirmed": false },
+    { "id": "coffee-desserts", "name": "Coffee & Desserts", "nameAm": null, "description": "A sweet finish.", "confirmed": false }
+  ],
+  "items": [
+    {
+      "id": "quanta-firfir",
+      "category": "traditional-meat",
+      "name": "Quanta Firfir",
+      "nameAm": "ቋንጣ ፍርፍር",
+      "description": "Mama's Kitchen's signature dish. Quanta firfir is a beloved Ethiopian classic of seasoned dried beef (quanta) cooked together with torn injera.",
+      "note": "General description of the dish. Mama's Kitchen to confirm its own recipe, ingredients and serving details.",
+      "price": null,
+      "dietary": [],
+      "tags": ["signature", "beef", "injera"],
+      "signature": true,
+      "available": true,
+      "image": {
+        "src": null,
+        "alt": "Quanta Firfir at Mama's Kitchen",
+        "credit": null,
+        "verified": false
+      }
+    }
+  ]
+}
